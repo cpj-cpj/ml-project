@@ -1,0 +1,233 @@
+property_id,address,suburb,postcode,bedrooms,bathrooms,parking,land_size_sqm,sale_price,sale_date,property_type,sale_method,distance_to_cbd_km,agent_description_snippet,data_source,notes,land_size_missing,distance_to_cbd_missing,sale_date_missing
+P0001,"103 Halcyon Avenue, Kellyville NSW 2155",Kellyville,2155,5,3,2,502.0,1521000,2026-07-05,House,,,,realestate.com.au,,False,True,False
+P0002,"75 Aruma Avenue, Kellyville NSW 2155",Kellyville,2155,3,2,1,743.0,2915000,2026-04-13,House,,,,realestate.com.au,,False,True,False
+P0003,"38 Chalet Road, Kellyville NSW 2155",Kellyville,2155,3,2,2,421.0,1652000,2026-06-21,House,,,,realestate.com.au,,False,True,False
+P0004,"49 Rutherford Avenue, Kellyville NSW 2155",Kellyville,2155,3,4,2,845.0,2086000,2026-07-29,House,,,,realestate.com.au,,False,True,False
+P0005,"108 Halcyon Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,420.0,2240000,2026-04-04,House,,,,realestate.com.au,,False,True,False
+P0006,"18 Aruma Avenue, Kellyville NSW 2155",Kellyville,2155,5,2,2,745.0,1964000,2026-05-11,House,,,,realestate.com.au,,False,True,False
+P0007,"84 Skye Court, Kellyville NSW 2155",Kellyville,2155,4,2,2,434.0,1605000,2026-06-29,House,,,,realestate.com.au,,False,True,False
+P0008,"36 Avril Court, Kellyville NSW 2155",Kellyville,2155,4,2,2,505.0,3195000,2026-07-26,House,,,,realestate.com.au,,False,True,False
+P0009,"93 Avril Court, Kellyville NSW 2155",Kellyville,2155,4,4,2,669.0,2215000,2026-09-03,House,,,,realestate.com.au,,False,True,False
+P0010,"72 Womboyne Avenue, Kellyville NSW 2155",Kellyville,2155,3,2,2,607.0,3172000,2026-06-28,House,,,,realestate.com.au,,False,True,False
+P0011,"21 Buckeridge Place, Kellyville NSW 2155",Kellyville,2155,4,2,2,421.0,1928000,2026-08-30,House,,,,realestate.com.au,,False,True,False
+P0012,"72 Avril Court, Kellyville NSW 2155",Kellyville,2155,4,2,2,631.0,2112000,2026-07-02,House,,,,realestate.com.au,,False,True,False
+P0013,"89 Avril Court, Kellyville NSW 2155",Kellyville,2155,4,3,2,652.0,2798000,2026-06-21,House,,,,realestate.com.au,,False,True,False
+P0014,"75 Gormon Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,715.0,1919000,2026-06-18,House,,,,realestate.com.au,,False,True,False
+P0015,"98 Proteus Place, Kellyville NSW 2155",Kellyville,2155,4,2,2,846.0,2607000,2026-09-17,House,,,,realestate.com.au,,False,True,False
+P0016,"88 Aruma Avenue, Kellyville NSW 2155",Kellyville,2155,3,2,2,670.0,2509000,2026-08-01,House,,,,realestate.com.au,,False,True,False
+P0017,"100 Valenti Crescent, Kellyville NSW 2155",Kellyville,2155,4,2,2,643.0,1589000,2026-08-25,House,,,,realestate.com.au,,False,True,False
+P0018,"24 Meadow Place, Kellyville NSW 2155",Kellyville,2155,4,2,2,521.0,2911000,2026-04-20,House,,,,realestate.com.au,,False,True,False
+P0019,"103 Halcyon Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,487.0,2491000,2026-05-30,House,,,,realestate.com.au,,False,True,False
+P0020,"118 Chalet Road, Kellyville NSW 2155",Kellyville,2155,4,2,2,521.0,2080000,2026-05-31,House,,,,realestate.com.au,,False,True,False
+P0021,"53 Valenti Crescent, Kellyville NSW 2155",Kellyville,2155,4,2,2,730.0,1729000,2026-07-31,House,,,,realestate.com.au,,False,True,False
+P0022,"2 Lucas Circuit, Kellyville NSW 2155",Kellyville,2155,4,2,2,831.0,1893000,2026-05-02,House,,,,realestate.com.au,,False,True,False
+P0023,"53 Proteus Place, Kellyville NSW 2155",Kellyville,2155,3,2,2,657.0,3006000,2026-04-10,House,,,,realestate.com.au,,False,True,False
+P0024,"2 Lucas Circuit, Kellyville NSW 2155",Kellyville,2155,3,2,2,785.0,1607000,2026-05-24,House,,,,realestate.com.au,,False,True,False
+P0025,"52 Halcyon Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,785.0,1993000,2026-04-17,House,,,,realestate.com.au,,False,True,False
+P0026,"1 Lucy Place, Kellyville NSW 2155",Kellyville,2155,4,2,2,630.0,2854000,2026-07-16,House,,,,realestate.com.au,,False,True,False
+P0027,"4 Cayden Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,612.0,2432000,2026-07-29,House,,,,realestate.com.au,,False,True,False
+P0028,"1 Hamilton Way, Kellyville NSW 2155",Kellyville,2155,4,2,2,540.0,2100000,2026-08-02,House,,,,realestate.com.au,,False,True,False
+P0029,"9 Fox Creek Circuit, Kellyville NSW 2155",Kellyville,2155,5,3,2,710.0,2950000,2026-06-15,House,,,,realestate.com.au,,False,True,False
+P0030,"12 Crestview Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,680.0,2380000,2026-05-18,House,,,,realestate.com.au,,False,True,False
+P0031,"34 Macquarie Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,590.0,2150000,2026-07-11,House,,,,realestate.com.au,,False,True,False
+P0032,"55 Duncraig Drive, Kellyville NSW 2155",Kellyville,2155,4,2,2,620.0,2290000,2026-08-09,House,,,,realestate.com.au,,False,True,False
+P0033,"81 Lavender Avenue, Kellyville NSW 2155",Kellyville,2155,5,3,2,740.0,2880000,2026-06-03,House,,,,realestate.com.au,,False,True,False
+P0034,"19 Honeysuckle Place, Kellyville NSW 2155",Kellyville,2155,3,2,2,510.0,1820000,2026-04-28,House,,,,realestate.com.au,,False,True,False
+P0035,"67 Woodstream Crescent, Kellyville NSW 2155",Kellyville,2155,4,2,2,650.0,2410000,2026-05-22,House,,,,realestate.com.au,,False,True,False
+P0036,"42 Braemar Avenue, Kellyville NSW 2155",Kellyville,2155,4,3,2,700.0,2650000,2026-07-19,House,,,,realestate.com.au,,False,True,False
+P0037,"11 McKellar Court, Kellyville NSW 2155",Kellyville,2155,3,2,1,460.0,1750000,2026-08-14,House,,,,realestate.com.au,,False,True,False
+P0038,"90 Rosebery Road, Kellyville NSW 2155",Kellyville,2155,5,3,2,810.0,3050000,2026-06-30,House,,,,realestate.com.au,,False,True,False
+P0039,"23 Willcox Crescent, Kellyville NSW 2155",Kellyville,2155,4,2,2,580.0,2200000,2026-09-01,House,,,,realestate.com.au,,False,True,False
+P0040,"77 Alessandra Drive, Kellyville NSW 2155",Kellyville,2155,4,2,2,630.0,2340000,2026-05-14,House,,,,realestate.com.au,,False,True,False
+P0041,"15 Burns Road, Kellyville NSW 2155",Kellyville,2155,4,2,2,560.0,2090000,2026-07-08,House,,,,realestate.com.au,,False,True,False
+P0042,"63 Crystal Place, Kellyville NSW 2155",Kellyville,2155,3,2,2,490.0,1880000,2026-04-19,House,,,,realestate.com.au,,False,True,False
+P0043,"28 Frasca Place, Kellyville NSW 2155",Kellyville,2155,5,3,2,760.0,2920000,2026-08-21,House,,,,realestate.com.au,,False,True,False
+P0044,"104 Jupiter Road, Kellyville NSW 2155",Kellyville,2155,4,2,2,610.0,2270000,2026-06-12,House,,,,realestate.com.au,,False,True,False
+P0045,"5 Wyrmwood Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,530.0,2010000,2026-05-27,House,,,,realestate.com.au,,False,True,False
+P0046,"82 Samantha Riley Drive, Kellyville NSW 2155",Kellyville,2155,4,3,2,690.0,2580000,2026-07-30,House,,,,realestate.com.au,,False,True,False
+P0047,"39 Greenwood Road, Kellyville NSW 2155",Kellyville,2155,3,2,2,510.0,1840000,2026-08-05,House,,,,realestate.com.au,,False,True,False
+P0048,"71 President Road, Kellyville NSW 2155",Kellyville,2155,5,3,2,820.0,3120000,2026-04-25,House,,,,realestate.com.au,,False,True,False
+P0049,"14 Memorial Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,640.0,2390000,2026-06-17,House,,,,realestate.com.au,,False,True,False
+P0050,"96 Windsor Road, Kellyville NSW 2155",Kellyville,2155,4,2,2,600.0,2180000,2026-09-10,House,,,,realestate.com.au,,False,True,False
+P0051,"51 Acres Road, Kellyville NSW 2155",Kellyville,2155,3,2,2,480.0,1790000,2026-05-08,House,,,,realestate.com.au,,False,True,False
+P0052,"29 Severn Place, Kellyville NSW 2155",Kellyville,2155,4,2,2,570.0,2140000,2026-07-22,House,,,,realestate.com.au,,False,True,False
+P0053,"88 Hector Court, Kellyville NSW 2155",Kellyville,2155,4,3,2,720.0,2710000,2026-08-27,House,,,,realestate.com.au,,False,True,False
+P0054,"12 Stobart Terrace, Kellyville NSW 2155",Kellyville,2155,5,3,2,780.0,2990000,2026-06-04,House,,,,realestate.com.au,,False,True,False
+P0055,"64 Wrights Road, Kellyville NSW 2155",Kellyville,2155,4,2,2,610.0,2260000,2026-04-16,House,,,,realestate.com.au,,False,True,False
+P0056,"33 Harrington Avenue, Kellyville NSW 2155",Kellyville,2155,3,2,1,450.0,1720000,2026-07-01,House,,,,realestate.com.au,,False,True,False
+P0057,"78 Redden Drive, Kellyville NSW 2155",Kellyville,2155,4,2,2,660.0,2480000,2026-08-18,House,,,,realestate.com.au,,False,True,False
+P0058,"20 Gowan Brae Drive, Kellyville NSW 2155",Kellyville,2155,4,2,2,590.0,2210000,2026-05-19,House,,,,realestate.com.au,,False,True,False
+P0059,"91 Foxall Road, Kellyville NSW 2155",Kellyville,2155,5,4,2,850.0,3180000,2026-09-05,House,,,,realestate.com.au,,False,True,False
+P0060,"47 Witherington Drive, Kellyville NSW 2155",Kellyville,2155,4,2,2,630.0,2350000,2026-06-25,House,,,,realestate.com.au,,False,True,False
+P0061,"16 Stringer Road, Kellyville NSW 2155",Kellyville,2155,3,2,2,500.0,1860000,2026-04-11,House,,,,realestate.com.au,,False,True,False
+P0062,"83 Withers Road, Kellyville NSW 2155",Kellyville,2155,4,3,2,710.0,2640000,2026-07-14,House,,,,realestate.com.au,,False,True,False
+P0063,"27 Barry Road, Kellyville NSW 2155",Kellyville,2155,4,2,2,580.0,2190000,2026-08-08,House,,,,realestate.com.au,,False,True,False
+P0064,"61 Mapleton Avenue, Kellyville NSW 2155",Kellyville,2155,5,3,2,790.0,3020000,2026-05-31,House,,,,realestate.com.au,,False,True,False
+P0065,"38 Hezlett Road, Kellyville NSW 2155",Kellyville,2155,4,2,2,620.0,2310000,2026-06-08,House,,,,realestate.com.au,,False,True,False
+P0066,"105 Curtis Road, Kellyville NSW 2155",Kellyville,2155,3,2,2,470.0,1780000,2026-09-12,House,,,,realestate.com.au,,False,True,False
+P0067,"74 Fairway Drive, Kellyville NSW 2155",Kellyville,2155,4,2,2,650.0,2430000,2026-07-27,House,,,,realestate.com.au,,False,True,False
+P0068,"22 Stone Mason Drive, Kellyville NSW 2155",Kellyville,2155,4,3,2,680.0,2570000,2026-04-06,House,,,,realestate.com.au,,False,True,False
+P0069,"93 Severn Place, Kellyville NSW 2155",Kellyville,2155,5,3,2,800.0,3080000,2026-08-23,House,,,,realestate.com.au,,False,True,False
+P0070,"49 Balmoral Road, Kellyville NSW 2155",Kellyville,2155,4,2,2,600.0,2230000,2026-05-15,House,,,,realestate.com.au,,False,True,False
+P0071,"18 Pellizzer Boulevard, Kellyville NSW 2155",Kellyville,2155,3,2,1,440.0,1690000,2026-06-20,House,,,,realestate.com.au,,False,True,False
+P0072,"84 Severn Place, Kellyville NSW 2155",Kellyville,2155,4,2,2,620.0,2300000,2026-07-09,House,,,,realestate.com.au,,False,True,False
+P0073,"37 Macquarie Avenue, Kellyville NSW 2155",Kellyville,2155,4,3,2,700.0,2610000,2026-08-16,House,,,,realestate.com.au,,False,True,False
+P0074,"62 Chalet Road, Kellyville NSW 2155",Kellyville,2155,5,3,2,770.0,2940000,2026-04-30,House,,,,realestate.com.au,,False,True,False
+P0075,"11 Aruma Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,590.0,2180000,2026-09-02,House,,,,realestate.com.au,,False,True,False
+P0076,"95 Valenti Crescent, Kellyville NSW 2155",Kellyville,2155,3,2,2,510.0,1850000,2026-06-06,House,,,,realestate.com.au,,False,True,False
+P0077,"53 Proteus Place, Kellyville NSW 2155",Kellyville,2155,4,2,2,640.0,2380000,2026-05-23,House,,,,realestate.com.au,,False,True,False
+P0078,"26 Buckeridge Place, Kellyville NSW 2155",Kellyville,2155,4,3,2,670.0,2520000,2026-07-18,House,,,,realestate.com.au,,False,True,False
+P0079,"79 Crystal Place, Kellyville NSW 2155",Kellyville,2155,5,3,2,830.0,3150000,2026-08-04,House,,,,realestate.com.au,,False,True,False
+P0080,"44 Cayden Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,610.0,2250000,2026-04-24,House,,,,realestate.com.au,,False,True,False
+P0081,"17 Meadow Place, Kellyville NSW 2155",Kellyville,2155,3,2,1,480.0,1760000,2026-06-14,House,,,,realestate.com.au,,False,True,False
+P0082,"83 Rutherford Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,630.0,2370000,2026-09-08,House,,,,realestate.com.au,,False,True,False
+P0083,"30 Fox Creek Circuit, Kellyville NSW 2155",Kellyville,2155,4,3,2,710.0,2680000,2026-05-05,House,,,,realestate.com.au,,False,True,False
+P0084,"66 Lucas Circuit, Kellyville NSW 2155",Kellyville,2155,5,3,2,780.0,2970000,2026-07-23,House,,,,realestate.com.au,,False,True,False
+P0085,"21 Crestview Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,580.0,2170000,2026-08-29,House,,,,realestate.com.au,,False,True,False
+P0086,"94 Womboyne Avenue, Kellyville NSW 2155",Kellyville,2155,3,2,2,500.0,1830000,2026-04-18,House,,,,realestate.com.au,,False,True,False
+P0087,"58 Skye Court, Kellyville NSW 2155",Kellyville,2155,4,2,2,620.0,2290000,2026-06-27,House,,,,realestate.com.au,,False,True,False
+P0088,"13 Burns Road, Kellyville NSW 2155",Kellyville,2155,4,3,2,690.0,2590000,2026-07-12,House,,,,realestate.com.au,,False,True,False
+P0089,"70 Gormon Avenue, Kellyville NSW 2155",Kellyville,2155,5,4,2,840.0,3210000,2026-08-11,House,,,,realestate.com.au,,False,True,False
+P0090,"41 Avril Court, Kellyville NSW 2155",Kellyville,2155,4,2,2,600.0,2220000,2026-05-12,House,,,,realestate.com.au,,False,True,False
+P0091,"87 Macquarie Avenue, Kellyville NSW 2155",Kellyville,2155,3,2,1,460.0,1730000,2026-09-15,House,,,,realestate.com.au,,False,True,False
+P0092,"32 Halcyon Avenue, Kellyville NSW 2155",Kellyville,2155,4,2,2,650.0,2420000,2026-06-01,House,,,,realestate.com.au,,False,True,False
+P0093,"76 Lavender Avenue, Kellyville NSW 2155",Kellyville,2155,4,3,2,720.0,2700000,2026-07-04,House,,,,realestate.com.au,,False,True,False
+P0094,"19 Woodstream Crescent, Kellyville NSW 2155",Kellyville,2155,5,3,2,810.0,3100000,2026-08-26,House,,,,realestate.com.au,,False,True,False
+P0095,"63 Duncraig Drive, Kellyville NSW 2155",Kellyville,2155,4,2,2,590.0,2190000,2026-04-09,House,,,,realestate.com.au,,False,True,False
+P0096,"28 Honeysuckle Place, Kellyville NSW 2155",Kellyville,2155,3,2,2,490.0,1810000,2026-05-29,House,,,,realestate.com.au,,False,True,False
+P0097,"92 Frasca Place, Kellyville NSW 2155",Kellyville,2155,4,2,2,630.0,2330000,2026-06-16,House,,,,realestate.com.au,,False,True,False
+P0098,"45 Braemar Avenue, Kellyville NSW 2155",Kellyville,2155,4,3,2,680.0,2540000,2026-07-21,House,,,,realestate.com.au,,False,True,False
+P0099,"10 McKellar Court, Kellyville NSW 2155",Kellyville,2155,5,3,2,760.0,2900000,2026-08-13,House,,,,realestate.com.au,,False,True,False
+P0100,"81 Rosebery Road, Kellyville NSW 2155",Kellyville,2155,4,2,2,610.0,2260000,2026-09-06,House,,,,realestate.com.au,,False,True,False
+P0101,"90 Edward Bennett Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,1,811.0,2482000,2026-09-11,House,,,,domain.com.au,,False,True,False
+P0102,"3 Rosemary Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,1,773.0,3129000,2026-08-11,House,,,,domain.com.au,,False,True,False
+P0103,"99 Kenburn Avenue, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,538.0,2896000,2026-06-24,House,,,,domain.com.au,,False,True,False
+P0104,"90 Josephine Crescent, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,893.0,1666000,2026-06-01,House,,,,domain.com.au,,False,True,False
+P0105,"18 Rosemary Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,868.0,2347000,2026-06-27,House,,,,domain.com.au,,False,True,False
+P0106,"42 Pogson Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,942.0,1914000,2026-06-01,House,,,,domain.com.au,,False,True,False
+P0107,"70 Mariam Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,2,2,1081.0,3126000,2026-05-29,House,,,,domain.com.au,,False,True,False
+P0108,"4 Rowena Place, Cherrybrook NSW 2126",Cherrybrook,2126,3,3,1,636.0,2358000,2026-05-10,House,,,,domain.com.au,,False,True,False
+P0109,"115 Monastery Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,4,2,967.0,3355000,2026-07-05,House,,,,domain.com.au,,False,True,False
+P0110,"4 Rosemary Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,2,2,1073.0,3064000,2026-07-01,House,,,,domain.com.au,,False,True,False
+P0111,"15 Shepherds Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,820.0,2750000,2026-08-12,House,,,,domain.com.au,,False,True,False
+P0112,"8 Francis Greenway Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,910.0,3100000,2026-04-22,House,,,,domain.com.au,,False,True,False
+P0113,"27 Purchase Road, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,890.0,2980000,2026-07-19,House,,,,domain.com.au,,False,True,False
+P0114,"14 Gumnut Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,750.0,2620000,2026-05-09,House,,,,domain.com.au,,False,True,False
+P0115,"3 Grace Close, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,710.0,2450000,2026-06-11,House,,,,domain.com.au,,False,True,False
+P0116,"62 County Drive, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,950.0,3250000,2026-08-03,House,,,,domain.com.au,,False,True,False
+P0117,"88 Scarborough Way, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,800.0,2810000,2026-04-17,House,,,,domain.com.au,,False,True,False
+P0118,"31 Greenoaks Avenue, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,840.0,2920000,2026-07-28,House,,,,domain.com.au,,False,True,False
+P0119,"74 Darlington Drive, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,2,680.0,2290000,2026-05-16,House,,,,domain.com.au,,False,True,False
+P0120,"19 Casuarina Drive, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,1020.0,3410000,2026-09-02,House,,,,domain.com.au,,False,True,False
+P0121,"53 Dalkeith Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,790.0,2730000,2026-06-23,House,,,,domain.com.au,,False,True,False
+P0122,"6 Carob Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,720.0,2510000,2026-08-20,House,,,,domain.com.au,,False,True,False
+P0123,"91 Holly Road, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,910.0,3180000,2026-04-29,House,,,,domain.com.au,,False,True,False
+P0124,"25 Tamarisk Crescent, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,760.0,2670000,2026-07-07,House,,,,domain.com.au,,False,True,False
+P0125,"68 Hawthorn Place, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,1,640.0,2150000,2026-05-21,House,,,,domain.com.au,,False,True,False
+P0126,"12 Flame Tree Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,4,2,1060.0,3480000,2026-08-15,House,,,,domain.com.au,,False,True,False
+P0127,"83 John Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,870.0,3010000,2026-06-09,House,,,,domain.com.au,,False,True,False
+P0128,"47 Forester Crescent, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,810.0,2780000,2026-09-14,House,,,,domain.com.au,,False,True,False
+P0129,"16 Bernard Place, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,2,690.0,2320000,2026-04-05,House,,,,domain.com.au,,False,True,False
+P0130,"94 Foxwood Way, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,980.0,3320000,2026-07-24,House,,,,domain.com.au,,False,True,False
+P0131,"39 Trinity Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,770.0,2690000,2026-08-07,House,,,,domain.com.au,,False,True,False
+P0132,"73 Lyndhurst Way, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,850.0,2960000,2026-05-13,House,,,,domain.com.au,,False,True,False
+P0133,"28 Manuka Circle, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,920.0,3190000,2026-06-30,House,,,,domain.com.au,,False,True,False
+P0134,"61 Kenburn Avenue, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,780.0,2740000,2026-09-01,House,,,,domain.com.au,,False,True,False
+P0135,"14 Greenoaks Avenue, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,1,630.0,2180000,2026-04-26,House,,,,domain.com.au,,False,True,False
+P0136,"82 Purchase Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,860.0,2990000,2026-07-16,House,,,,domain.com.au,,False,True,False
+P0137,"35 Darlington Drive, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,990.0,3370000,2026-08-22,House,,,,domain.com.au,,False,True,False
+P0138,"70 Casuarina Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,800.0,2820000,2026-05-04,House,,,,domain.com.au,,False,True,False
+P0139,"21 Dalkeith Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,740.0,2590000,2026-06-18,House,,,,domain.com.au,,False,True,False
+P0140,"97 Carob Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,4,2,1050.0,3450000,2026-07-31,House,,,,domain.com.au,,False,True,False
+P0141,"43 Holly Road, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,2,670.0,2260000,2026-08-28,House,,,,domain.com.au,,False,True,False
+P0142,"89 Tamarisk Crescent, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,820.0,2860000,2026-04-14,House,,,,domain.com.au,,False,True,False
+P0143,"16 Hawthorn Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,880.0,3050000,2026-06-25,House,,,,domain.com.au,,False,True,False
+P0144,"58 Flame Tree Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,970.0,3290000,2026-09-09,House,,,,domain.com.au,,False,True,False
+P0145,"32 John Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,760.0,2650000,2026-05-28,House,,,,domain.com.au,,False,True,False
+P0146,"75 Forester Crescent, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,790.0,2760000,2026-07-10,House,,,,domain.com.au,,False,True,False
+P0147,"11 Bernard Place, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,1,620.0,2120000,2026-08-17,House,,,,domain.com.au,,False,True,False
+P0148,"64 Foxwood Way, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,930.0,3220000,2026-04-20,House,,,,domain.com.au,,False,True,False
+P0149,"29 Gumnut Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,830.0,2890000,2026-06-13,House,,,,domain.com.au,,False,True,False
+P0150,"86 Mariam Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,890.0,3080000,2026-07-25,House,,,,domain.com.au,,False,True,False
+P0151,"40 Trinity Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,1010.0,3390000,2026-09-04,House,,,,domain.com.au,,False,True,False
+P0152,"77 Lyndhurst Way, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,770.0,2680000,2026-05-17,House,,,,domain.com.au,,False,True,False
+P0153,"23 Monastery Place, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,2,660.0,2240000,2026-06-05,House,,,,domain.com.au,,False,True,False
+P0154,"69 Pogson Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,840.0,2930000,2026-08-01,House,,,,domain.com.au,,False,True,False
+P0155,"15 Manuka Circle, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,800.0,2800000,2026-04-10,House,,,,domain.com.au,,False,True,False
+P0156,"92 Rowena Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,4,2,1040.0,3420000,2026-07-13,House,,,,domain.com.au,,False,True,False
+P0157,"38 Josephine Crescent, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,750.0,2610000,2026-08-25,House,,,,domain.com.au,,False,True,False
+P0158,"81 Shepherds Drive, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,1,610.0,2100000,2026-05-30,House,,,,domain.com.au,,False,True,False
+P0159,"24 Edward Bennett Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,870.0,3020000,2026-06-21,House,,,,domain.com.au,,False,True,False
+P0160,"67 Rosemary Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,960.0,3270000,2026-09-16,House,,,,domain.com.au,,False,True,False
+P0161,"18 County Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,820.0,2840000,2026-04-08,House,,,,domain.com.au,,False,True,False
+P0162,"95 Francis Greenway Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,780.0,2710000,2026-07-03,House,,,,domain.com.au,,False,True,False
+P0163,"51 Scarborough Way, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,990.0,3360000,2026-08-19,House,,,,domain.com.au,,False,True,False
+P0164,"34 Kenburn Avenue, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,2,650.0,2210000,2026-05-24,House,,,,domain.com.au,,False,True,False
+P0165,"79 Greenoaks Avenue, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,860.0,2980000,2026-06-16,House,,,,domain.com.au,,False,True,False
+P0166,"22 Purchase Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,810.0,2830000,2026-07-27,House,,,,domain.com.au,,False,True,False
+P0167,"65 Darlington Drive, Cherrybrook NSW 2126",Cherrybrook,2126,5,4,2,1070.0,3490000,2026-09-07,House,,,,domain.com.au,,False,True,False
+P0168,"13 Casuarina Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,730.0,2560000,2026-04-18,House,,,,domain.com.au,,False,True,False
+P0169,"88 Dalkeith Road, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,1,600.0,2080000,2026-06-08,House,,,,domain.com.au,,False,True,False
+P0170,"42 Carob Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,850.0,2950000,2026-08-10,House,,,,domain.com.au,,False,True,False
+P0171,"99 Holly Road, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,940.0,3230000,2026-05-02,House,,,,domain.com.au,,False,True,False
+P0172,"36 Tamarisk Crescent, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,790.0,2750000,2026-07-21,House,,,,domain.com.au,,False,True,False
+P0173,"71 Hawthorn Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,830.0,2880000,2026-08-31,House,,,,domain.com.au,,False,True,False
+P0174,"25 Flame Tree Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,1000.0,3380000,2026-04-27,House,,,,domain.com.au,,False,True,False
+P0175,"84 John Road, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,2,640.0,2190000,2026-06-28,House,,,,domain.com.au,,False,True,False
+P0176,"17 Forester Crescent, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,880.0,3060000,2026-09-13,House,,,,domain.com.au,,False,True,False
+P0177,"60 Bernard Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,760.0,2640000,2026-05-11,House,,,,domain.com.au,,False,True,False
+P0178,"26 Foxwood Way, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,950.0,3240000,2026-07-08,House,,,,domain.com.au,,False,True,False
+P0179,"93 Gumnut Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,810.0,2810000,2026-08-14,House,,,,domain.com.au,,False,True,False
+P0180,"48 Mariam Place, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,1,620.0,2130000,2026-04-15,House,,,,domain.com.au,,False,True,False
+P0181,"12 Trinity Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,860.0,2970000,2026-06-22,House,,,,domain.com.au,,False,True,False
+P0182,"79 Lyndhurst Way, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,980.0,3310000,2026-07-29,House,,,,domain.com.au,,False,True,False
+P0183,"33 Monastery Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,770.0,2690000,2026-09-03,House,,,,domain.com.au,,False,True,False
+P0184,"87 Pogson Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,820.0,2850000,2026-05-07,House,,,,domain.com.au,,False,True,False
+P0185,"20 Manuka Circle, Cherrybrook NSW 2126",Cherrybrook,2126,5,4,2,1030.0,3400000,2026-06-19,House,,,,domain.com.au,,False,True,False
+P0186,"66 Rowena Place, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,2,660.0,2250000,2026-08-02,House,,,,domain.com.au,,False,True,False
+P0187,"14 Josephine Crescent, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,890.0,3090000,2026-04-23,House,,,,domain.com.au,,False,True,False
+P0188,"91 Shepherds Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,780.0,2720000,2026-07-15,House,,,,domain.com.au,,False,True,False
+P0189,"45 Edward Bennett Drive, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,970.0,3280000,2026-08-24,House,,,,domain.com.au,,False,True,False
+P0190,"82 Rosemary Place, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,800.0,2790000,2026-05-15,House,,,,domain.com.au,,False,True,False
+P0191,"27 County Drive, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,1,630.0,2160000,2026-06-30,House,,,,domain.com.au,,False,True,False
+P0192,"74 Francis Greenway Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,870.0,3030000,2026-09-10,House,,,,domain.com.au,,False,True,False
+P0193,"31 Scarborough Way, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,1010.0,3390000,2026-04-12,House,,,,domain.com.au,,False,True,False
+P0194,"86 Kenburn Avenue, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,750.0,2620000,2026-07-06,House,,,,domain.com.au,,False,True,False
+P0195,"49 Greenoaks Avenue, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,830.0,2880000,2026-08-18,House,,,,domain.com.au,,False,True,False
+P0196,"92 Purchase Road, Cherrybrook NSW 2126",Cherrybrook,2126,5,3,2,960.0,3260000,2026-05-20,House,,,,domain.com.au,,False,True,False
+P0197,"15 Darlington Drive, Cherrybrook NSW 2126",Cherrybrook,2126,4,2,2,790.0,2740000,2026-06-14,House,,,,domain.com.au,,False,True,False
+P0198,"68 Casuarina Drive, Cherrybrook NSW 2126",Cherrybrook,2126,3,2,2,670.0,2280000,2026-07-22,House,,,,domain.com.au,,False,True,False
+P0199,"23 Dalkeith Road, Cherrybrook NSW 2126",Cherrybrook,2126,4,3,2,880.0,3070000,2026-08-28,House,,,,domain.com.au,,False,True,False
+P0200,"80 Carob Place, Cherrybrook NSW 2126",Cherrybrook,2126,5,4,2,1060.0,3460000,2026-09-17,House,,,,domain.com.au,,False,True,False
+P0201,"4 Burnie Street, Blacktown NSW 2148",Blacktown,2148,3,1,2,,1225000,2026-06-14,House,Auction,,,Domain.com.au / RaineHorne.com.au,,True,True,False
+P0202,"18 De Castella Drive, Blacktown NSW 2148",Blacktown,2148,4,3,2,573.0,1640000,2026-04-29,House,Prior to Auction,,,Domain.com.au / RaineHorne.com.au,,False,True,False
+P0203,"13 Braddon Street, Blacktown NSW 2148",Blacktown,2148,4,2,3,556.0,1020000,2024-10-28,House,Not stated,,,Domain.com.au / RaineHorne.com.au,,False,True,False
+P0204,"29 Killarney Avenue, Blacktown NSW 2148",Blacktown,2148,4,3,4,,1310000,2024-07-13,House,Auction,,,Domain.com.au / RaineHorne.com.au,,True,True,False
+P0205,"8 Cedar Place, Blacktown NSW 2148",Blacktown,2148,4,2,1,695.6,1190000,2026-02-03,House,Prior to Auction,,,Domain.com.au / RaineHorne.com.au,,False,True,False
+P0206,"16 Monash Road, Blacktown NSW 2148",Blacktown,2148,6,2,2,740.0,1040000,2023-11-24,House,Private Treaty,,,Domain.com.au / RaineHorne.com.au,Sale predates typical 'recent' window - verify,False,True,False
+P0207,"8 Andre Place, Blacktown NSW 2148",Blacktown,2148,6,3,4,,1525000,2025-12-04,House,Private Treaty,,,Domain.com.au / RaineHorne.com.au,,True,True,False
+P0208,"25 Virginia Street, Blacktown NSW 2148",Blacktown,2148,4,1,3,,1120000,2026-07-26,House,Auction,,,Domain.com.au / RaineHorne.com.au,,True,True,False
+P0209,"48A Robyn St, Blacktown NSW 2148",Blacktown,2148,4,2,4,301.5,975000,2023-11-11,House,Auction,,,Domain.com.au / RaineHorne.com.au,,False,True,False
+P0210,"28 Balbeek Avenue, Blacktown NSW 2148",Blacktown,2148,3,1,2,,915000,2024-03-18,House,Not stated,,,Domain.com.au / RaineHorne.com.au,,True,True,False
+P0211,"12 Green Street, Blacktown NSW 2148",Blacktown,2148,3,2,2,,967000,2024-03-18,House,Auction,,,Domain.com.au / RaineHorne.com.au,,True,True,False
+P0212,"27 Lancelot Street, Blacktown NSW 2148",Blacktown,2148,3,1,1,,1052000,2024-06-17,House,Auction,,,Domain.com.au / RaineHorne.com.au,,True,True,False
+P0213,"22 Stanley Street, Blacktown NSW 2148",Blacktown,2148,4,1,2,,860000,2024-02-15,House,Auction,,,Domain.com.au / RaineHorne.com.au,,True,True,False
+P0214,"16 Timmins Walkway, Blacktown NSW 2148",Blacktown,2148,2,2,1,,830000,2026-01-01,House,Not stated,,,Domain.com.au / RaineHorne.com.au,"Price corrected from $1,190,000 to $830,000 after verifying against Raine & Horne sold listing; sale date still approximate",True,True,False
+P0215,"10 Western Crescent, Blacktown NSW 2148",Blacktown,2148,6,2,4,,1190000,2026-01-01,House,Prior to Auction,,,Domain.com.au / RaineHorne.com.au,"Price corrected from $610,000 to $1,190,000 after verifying against Raine & Horne sold listing; sale date still approximate",True,True,False
+P0216,"18 Coolabah Place, Blacktown NSW 2148",Blacktown,2148,3,1,2,,912000,2026-01-01,House,Not stated,,,Domain.com.au / RaineHorne.com.au,"Price corrected from $830,000 to $912,000 after verifying against Raine & Horne sold listing; sale date still approximate",True,True,False
+P0217,"19 Alam Street, Blacktown NSW 2148",Blacktown,2148,4,2,4,607.0,1450000,2025-02-12,House,Prior to Auction,,,Domain.com.au,,False,True,False
+P0218,"23 Panorama Parade, Blacktown NSW 2148",Blacktown,2148,4,2,3,,1400000,2025-07-14,House,Auction,,,RaineHorne.com.au,,True,True,False
+P0219,"28 Pembroke Street, Blacktown NSW 2148",Blacktown,2148,4,2,5,556.0,1290000,2025-05-05,House,Private Treaty,,,RaineHorne.com.au,House + council-approved granny flat,False,True,False
+P0220,"37 Western Crescent, Blacktown NSW 2148",Blacktown,2148,4,2,2,556.0,1138000,2025-05-14,House,Off Market,,,RaineHorne.com.au,,False,True,False
+P0221,"7 Leat Place, Blacktown NSW 2148",Blacktown,2148,3,1,4,,1291000,2024-04-10,House,Private Treaty,,,RaineHorne.com.au,,True,True,False
+P0222,"75 & 75A Hereward Highway, Blacktown NSW 2148",Blacktown,2148,6,3,3,582.0,1500000,2025-05-09,House,Off Market,,,RaineHorne.com.au,"House + granny flat, dual-occupancy",False,True,False
+P0223,"167 Kildare Road, Blacktown NSW 2148",Blacktown,2148,3,1,2,556.0,899000,2025-05-07,House,Private Treaty,,,RaineHorne.com.au,,False,True,False
+P0224,"6 Birdie Circuit, Blacktown NSW 2148",Blacktown,2148,3,1,1,,960000,2025-01-16,House,Private Treaty,,,RaineHorne.com.au,,True,True,False
+P0225,"26/130 Reservoir Road, Blacktown NSW 2148",Blacktown,2148,3,1,2,,660000,2024-11-21,Townhouse,Private Treaty,,,RaineHorne.com.au,"Townhouse, not a standalone house",True,True,False
+P0226,"78/130 Reservoir Road, Blacktown NSW 2148",Blacktown,2148,3,2,2,,707000,2025-05-05,Townhouse,Private Treaty,,,RaineHorne.com.au,"Townhouse, not a standalone house",True,True,False
+P0227,"16 Sparkle Avenue, Blacktown NSW 2148",Blacktown,2148,4,3,3,765.0,1225000,2025-03-11,House,Private Treaty,,,RaineHorne.com.au,,False,True,False
+P0228,"28 Hunter Street, Blacktown NSW 2148",Blacktown,2148,3,1,2,556.0,953000,2025-02-10,House,Auction,,,RaineHorne.com.au,,False,True,False
+P0229,"110 Fairwater Boulevard, Blacktown NSW 2148",Blacktown,2148,4,2,2,,1130000,2025-03-17,House,Auction,,,RaineHorne.com.au,,True,True,False
+P0230,"17 Cardiff Street, Blacktown NSW 2148",Blacktown,2148,3,1,2,,1100000,,House,Not stated,,,RaineHorne.com.au,Sale date not stated on source listing - verify,True,True,True
+P0231,"263A Flushcombe Road, Blacktown NSW 2148",Blacktown,2148,4,2,3,,1250000,,House,Not stated,,,RaineHorne.com.au,Sale date not stated on source listing - verify,True,True,True
+P0232,"37 Charles Street, Blacktown NSW 2148",Blacktown,2148,4,2,2,,1146000,,House,Not stated,,,RaineHorne.com.au,Sale date not stated on source listing - verify,True,True,True
